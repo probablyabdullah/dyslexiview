@@ -80,7 +80,6 @@ Dyslexiview is a learning aid designed to empower individuals with dyslexia by m
 
    ```
 
-   on getting an error.
 3. This program uses Tesseract-OCR, which has a complicated installation process on Windows. [Find it here](https://tesseract-ocr.github.io/tessdoc/Installation.html) and make sure you don't forget any steps, especially the PATH steps.
 
 ### Running:
