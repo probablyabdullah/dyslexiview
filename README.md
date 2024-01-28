@@ -72,8 +72,8 @@ Dyslexiview is a learning aid designed to empower individuals with dyslexia by m
 
 ## Getting Started 🔨
 
-1. This program expects you to have a Python 3.9 or higher
-2. This program makes use of a lot of libraries. There's a high chance that your system won't have some or all of these. Run
+1. This program expects you to have a Python 3.9 or higher.
+2. This program makes use of a lot of libraries. There's a high chance that your system won't have some or all of these. Run the following code on getting an error.
 
     ```
    pip install -libraryname-
